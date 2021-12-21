@@ -32,3 +32,7 @@
 
 ### 4주차
 - [고급 매핑](https://github.com/Java-Crew/jpa-study/tree/main/%EA%B3%A0%EA%B8%89%20%EB%A7%A4%ED%95%91)
+
+### 5주차
+- [프록시와 연관관계 관리](https://github.com/Java-Crew/jpa-study/tree/main/%ED%94%84%EB%A1%9D%EC%8B%9C%EC%99%80%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%EA%B4%80%EB%A6%AC)
+
