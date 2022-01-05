@@ -38,3 +38,6 @@
 
 ### 6주차
 - [값 타입](https://github.com/Java-Crew/jpa-study/tree/main/%EA%B0%92%20%ED%83%80%EC%9E%85)
+
+### 7주차
+- jwp-qna 3단계 미션 수행
