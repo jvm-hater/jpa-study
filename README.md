@@ -40,7 +40,7 @@
 - [값 타입](https://github.com/Java-Crew/jpa-study/tree/main/%EA%B0%92%20%ED%83%80%EC%9E%85)
 
 ### 7주차
-- [jwp-qna 3단계 미션 수행]((https://github.com/Java-Crew/jwp-qna))
+- [jwp-qna 3단계 미션 수행](https://github.com/Java-Crew/jwp-qna)
 
 ### 8주차
 - [jwp-qna 3단계 미션을 진행하면서 새롭게 배운 내용 정리](https://github.com/Java-Crew/jpa-study)
