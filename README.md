@@ -44,3 +44,6 @@
 
 ### 8주차
 - [jwp-qna 3단계 미션을 진행하면서 새롭게 배운 내용 정리](https://github.com/Java-Crew/jpa-study)
+
+### 9주차
+- [객체지향 쿼리 언어 - 1](https://github.com/Java-Crew/jpa-study/tree/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%BF%BC%EB%A6%AC%20%EC%96%B8%EC%96%B4)
