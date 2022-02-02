@@ -50,3 +50,6 @@
 
 ### 10주차
 - [QueryDSL, 네이티브 SQL, 객체지향 쿼리 심화](https://github.com/Java-Crew/jpa-study/tree/main/QueryDSL%2C%20%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C%20SQL%2C%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%BF%BC%EB%A6%AC%20%EC%8B%AC%ED%99%94)
+
+### 11주차
+- [스프링 데이터 JPA](https://github.com/Java-Crew/jpa-study/tree/main/%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20JPA)
