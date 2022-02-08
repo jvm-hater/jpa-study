@@ -53,3 +53,6 @@
 
 ### 11주차
 - [스프링 데이터 JPA](https://github.com/Java-Crew/jpa-study/tree/main/%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20JPA)
+
+### 12주차
+- [웹 애플리케이션과 영속성 관리](https://github.com/Java-Crew/jpa-study/tree/main/%EC%9B%B9%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EA%B3%BC%20%EC%98%81%EC%86%8D%EC%84%B1%20%EA%B4%80%EB%A6%AC)
