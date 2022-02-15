@@ -56,3 +56,6 @@
 
 ### 12주차
 - [웹 애플리케이션과 영속성 관리](https://github.com/Java-Crew/jpa-study/tree/main/%EC%9B%B9%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EA%B3%BC%20%EC%98%81%EC%86%8D%EC%84%B1%20%EA%B4%80%EB%A6%AC)
+
+### 13주차
+- [컬렉션과 부가 기능](https://github.com/Java-Crew/jpa-study/tree/main/%EC%BB%AC%EB%A0%89%EC%85%98%EA%B3%BC%20%EB%B6%80%EA%B0%80%20%EA%B8%B0%EB%8A%A5)
