@@ -59,3 +59,6 @@
 
 ### 13주차
 - [컬렉션과 부가 기능](https://github.com/Java-Crew/jpa-study/tree/main/%EC%BB%AC%EB%A0%89%EC%85%98%EA%B3%BC%20%EB%B6%80%EA%B0%80%20%EA%B8%B0%EB%8A%A5)
+
+### 14주차
+- [고급 주제와 성능 최적화](https://github.com/Java-Crew/jpa-study/tree/main/%EA%B3%A0%EA%B8%89%20%EC%A3%BC%EC%A0%9C%EC%99%80%20%EC%84%B1%EB%8A%A5%20%EC%B5%9C%EC%A0%81%ED%99%94)
