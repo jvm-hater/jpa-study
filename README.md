@@ -62,3 +62,6 @@
 
 ### 14주차
 - [고급 주제와 성능 최적화](https://github.com/Java-Crew/jpa-study/tree/main/%EA%B3%A0%EA%B8%89%20%EC%A3%BC%EC%A0%9C%EC%99%80%20%EC%84%B1%EB%8A%A5%20%EC%B5%9C%EC%A0%81%ED%99%94)
+
+### 15주차
+- [트랜잭션과 락, 2차 캐시](https://github.com/Java-Crew/jpa-study/tree/main/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EA%B3%BC%20%EB%9D%BD,%202%EC%B0%A8%20%EC%BA%90%EC%8B%9C)
